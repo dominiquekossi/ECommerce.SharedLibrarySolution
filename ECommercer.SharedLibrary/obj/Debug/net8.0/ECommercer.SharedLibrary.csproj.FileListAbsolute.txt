@@ -1,0 +1,14 @@
+C:\Users\ki8443\Music\ECommerce.SharedLibrarySolution\ECommercer.SharedLibrary\bin\Debug\net8.0\ECommercer.SharedLibrary.deps.json
+C:\Users\ki8443\Music\ECommerce.SharedLibrarySolution\ECommercer.SharedLibrary\bin\Debug\net8.0\ECommercer.SharedLibrary.runtimeconfig.json
+C:\Users\ki8443\Music\ECommerce.SharedLibrarySolution\ECommercer.SharedLibrary\bin\Debug\net8.0\ECommercer.SharedLibrary.dll
+C:\Users\ki8443\Music\ECommerce.SharedLibrarySolution\ECommercer.SharedLibrary\bin\Debug\net8.0\ECommercer.SharedLibrary.pdb
+C:\Users\ki8443\Music\ECommerce.SharedLibrarySolution\ECommercer.SharedLibrary\obj\Debug\net8.0\ECommercer.SharedLibrary.csproj.AssemblyReference.cache
+C:\Users\ki8443\Music\ECommerce.SharedLibrarySolution\ECommercer.SharedLibrary\obj\Debug\net8.0\ECommercer.SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ki8443\Music\ECommerce.SharedLibrarySolution\ECommercer.SharedLibrary\obj\Debug\net8.0\ECommercer.SharedLibrary.AssemblyInfoInputs.cache
+C:\Users\ki8443\Music\ECommerce.SharedLibrarySolution\ECommercer.SharedLibrary\obj\Debug\net8.0\ECommercer.SharedLibrary.AssemblyInfo.cs
+C:\Users\ki8443\Music\ECommerce.SharedLibrarySolution\ECommercer.SharedLibrary\obj\Debug\net8.0\ECommercer.SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ki8443\Music\ECommerce.SharedLibrarySolution\ECommercer.SharedLibrary\obj\Debug\net8.0\ECommercer.SharedLibrary.dll
+C:\Users\ki8443\Music\ECommerce.SharedLibrarySolution\ECommercer.SharedLibrary\obj\Debug\net8.0\refint\ECommercer.SharedLibrary.dll
+C:\Users\ki8443\Music\ECommerce.SharedLibrarySolution\ECommercer.SharedLibrary\obj\Debug\net8.0\ECommercer.SharedLibrary.pdb
+C:\Users\ki8443\Music\ECommerce.SharedLibrarySolution\ECommercer.SharedLibrary\obj\Debug\net8.0\ECommercer.SharedLibrary.genruntimeconfig.cache
+C:\Users\ki8443\Music\ECommerce.SharedLibrarySolution\ECommercer.SharedLibrary\obj\Debug\net8.0\ref\ECommercer.SharedLibrary.dll
